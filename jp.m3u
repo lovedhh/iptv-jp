@@ -3,7 +3,7 @@
 #Tokyo1
 #EXTINF:-1 group-title="Tokyo" tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",ＮＨＫ総合１・東京 
 http://vthanh.utako.moe/1/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ＮＨＫＥテレ１・東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ＮＨＫＥテレ１東京
+#EXTINF:-1 group-title="Tokyo" tvg-id="ＮＨＫＥテレ１・東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ＮＨＫＥテレ１・東京
 http://vthanh.utako.moe/2/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="日テレ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",日テレ
 http://vthanh.utako.moe/3/index.m3u8
@@ -15,14 +15,14 @@ http://vthanh.utako.moe/7/index.m3u8
 http://vthanh.utako.moe/4/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="テレビ東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレビ東京 
 http://vthanh.utako.moe/6/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ＴＯＫＹＯ　ＭＸ１" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="ＴＯＫＹＯ　ＭＸ１" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ＴＯＫＹＯ　ＭＸ１
 http://vthanh.utako.moe/10/index.m3u8
 #BS1
-#EXTINF:-1 group-title="BS" tvg-id="ＮＨＫ.ＢＳ１" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="ＮＨＫ.ＢＳ１" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",ＮＨＫ.ＢＳ１
 http://vthanh.utako.moe/8/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="BSアニマックス" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+#EXTINF:-1 group-title="BS" tvg-id="BSアニマックス" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",BSアニマックス
 http://vthanh.utako.moe/9/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11イレブン
 http://vthanh.utako.moe/12/index.m3u8
 #CS1
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
